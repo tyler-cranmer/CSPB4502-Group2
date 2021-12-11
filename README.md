@@ -7,7 +7,9 @@ Timur Boskailo
 Tyler Cranmer
 Hitomi Imai
 
-This project is an analysis of New York City parking tickets from 2017.
+This project is an analysis of New York City parking tickets from 2017. We used the following DataSet
+
+https://www.kaggle.com/new-york-city/nyc-parking-tickets
 
 In New York City, ~10M parking tickets are issued every year.  The dataset on the parking tickets issued in NYC are collected by the NYC Department of Finance to aid in ticket resolution and guide policymakers.  
 Our team is motivated to analyze such data sets to examine whether there are any noteworthy patterns between violations and types of cars, seasonality and locations: 
