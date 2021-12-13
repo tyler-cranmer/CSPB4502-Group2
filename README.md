@@ -20,9 +20,6 @@ Our team is motivated to analyze such data sets to examine whether there are any
 
 There are two general areas of application. One is from the perspective of Police/Policy Makers, and the other is from the perspective of citizens and business's that use commericial vehicles. Police and policy makers can use the data to decide where and how to distribute, as well as which parts of the city could use restructuring in terms of parking and standing areas for commerical vehicles. Average citiznes of the city and business's can look at the data to see which areas to avoid or be careful in for certain violations. The data can also be a tool for presenting grievences to the city to improve parking and other infrastructure. 
 
-Link to Video Description of Project
-https://drive.google.com/file/d/1ECuQxunJcfbWcXW3Fd12WOSqn6RsogPL/view?usp=sharing
-
 Link to Final Paper (also in github repository)
 https://drive.google.com/file/d/1aUXZvUYIjBQX-7k_V2sF9fu0qVRRt1sT/view?usp=sharing
 
